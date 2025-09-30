@@ -1,0 +1,105 @@
+//LANGUAGE SELECTION PANEL
+$Welcome = Welcome
+$Help = Help
+$Help_LanguageSelection =  Press the button with the preferred language. Then press the purple arrow.  
+
+//PURPOSE PANEL
+$StudyPurpose = Purpose of the study
+$StudyPurposeText1 = In this study conducted by the University of Bern, we are investigating the interactions between voice and emotions. For this purpose, the app records your voice while you read out words, answer questions and describe pictures. The data will be used to better understand emotional aspects of neurodegenerative diseases (e.g. Parkinson's disease) and to improve therapy.\n\nThe study has been approved by the Ethics Committee of the Canton of Bern (CH). You have been personally informed by the study team about the study content and have signed the informed consent form. Subsequently, you have received a personal identification number (ID) and the corresponding password. 
+
+$StudyPurposeText2 =  If you have not yet received a personal identification number (ID) and would like to participate in the study, please contact the study director.\n\nThe person responsible for the study is Prof. Dr. Tobias Nef (ARTORG Research Centre for Biomedical Engineering, University of Bern, info@telerehabilitation.ch).\n\nWe would like to take this opportunity to thank you very much for your participation in the study. We greatly appreciate your cooperation, effort and time!
+
+$Help_Purpose = If you have any further questions, please contact the ARTORG Center of the University of Bern. (www.artorg.unibe.ch\n\Prof. Dr. Tobias Nef (ARTORG Research Center for Biomedical Engineering, University of Bern, info@telerehabilitation.ch)
+
+
+$Help_Generic = For further questions please contact the ARTORG Center of the University of Bern. (www.artorg.unibe.ch\n\nProf. Dr. Tobias Nef (ARTORG Research Center for Biomedical Engineering, University of Bern, info@telerehabilitation.ch)
+
+//DATA PROTECTION PANEL
+$DataProtectionTitle = Data protection
+$DataProtectionText = You have been informed in writing and verbally by the study team about data protection.\n\nHere again as a reminder: The app records your voice and transmits the audio file in encrypted form to a secure server of the University of Bern. Your identification number (e.g. 12) and your answer to the mood question (number between 0-1) are also transmitted.\n\nNo other data is transmitted (i.e. no geo-localisation, etc.).\n\nThe data is treated as strictly confidential and is only used for study purposes.\nYou have been informed that you can discontinue the study at any time and that you can request the study team to delete your data.\nThe use of the APP may incur mobile phone costs. You will be compensated for this by the study team.\nIf you have any further questions, please do not hesitate to contact us.. 
+
+//CONSENT PANEL NOT USED
+$Consent = Consent
+$DataProtection = You will complete four different tasks in this app: \n\n1) read words aloud \n2) read sentences aloud \n3) answer questions (e.g., "How are you doing today") \n4) describe pictures. \n\nThe app records your voice and transmits the audio file to a secure server located at the University of Bern. Also, subject Identification Nr (ID) (e.g. 12) and subject key (e.g. 34) as well as your answer to the mood question (number between 0-1) are transmitted.\n\nNo other data are transmitted (i.e. no geo-location, etc.).\n\nThe data will be kept strictly confidential and will only be used for study purposes.\n\nThe person responsible for the study is Prof. Dr. Tobias Nef (ARTORG Research Center for Biomedical Engineering, University of Bern). \n\nFor more information, please visit our website at https://www.artorg.unibe.ch/research/ger/research.
+$Accept = Agree
+$Reject = Not Agreed
+
+//DATA PANEL
+$Infos = Login
+$OK = OK
+$EnterTheData = Please enter the ID and password that you have received from the investigator. 
+$PleaseEnterBothIDandKey = Please enter the ID and the password.
+$DownloadInfo = DThank you. The configuration data will now be downloaded. Should not take long. If it does - just close the app and try later (your entries are saved). 
+$ParticipantID = ID
+$ParticipantKEY = Password
+$PasswordWrong = Wrong password or wrong ID. Please try again. 
+$Help_Info = The identification number (ID) is used instead of your name.\n\nThe first time you have to enter the password that you have received from the study team. Afterwards, you can choose your own password.
+
+//CHANGE PW PANEL
+$ChangePW = change password
+$EnterNewPW = Please enter a new password. Please enter at least 6 characters containing upper and lower case letters and at least one number. 
+$NewPW = new password
+$RepeatPW = please repeat password
+$Help_NewPassword = You may choose a password you are familiar with. 
+$PWnotIdentical = The two passwords must be identical (minimum length 6, upper and lower case letters, at least one number).
+
+//INSTRUKTION PANEL
+$Instruction = Instructions
+$AppInstruction1 = We ask you to run the app three times a day at the following times:
+$AppInstruction2 = After launching, you will perform different tasks depending on the time of day. For example, reading words aloud. This will take about 3-5 min.
+$AppInstruction3 = If you forget to open the app at the specific times a reminder will appear on your smartphone. Your reminder times are:
+$oClock = o'clock
+$Help_Instruction = Try to start the app at the specified times. If you forget to do so, a reminder will appear on your smartphone.
+
+//WELCOME PANEL
+$WelcomeTask = Welcome. We ask you to perform the following tasks. Press the purple arrow to start. 
+$QuestionHowYouFeel = Mood (question)
+$SpeakWord = Speak: Word
+$SpeakSentence = Speak: sentence
+$DescribeAPicture = Describe picture
+$AnswerAQuestion = Answer question
+$Help_Welcome = After pressing the white button with the purple arrow, the app will ask you the appropriate questions. The questions depend on the time of day. 
+
+//VAS PANEL
+$Mood = Mood
+$HowAreYou=How is it going?
+$AtTheMomentIFeel = In the present moment I feel:
+$Sad = sad
+$Happy = happy
+$Help_Mood = Please tell us how you feel at this moment. To do this, move the purple dot to the right place. Leftmost means "sad", rightmost means "happy". For example, if you feel "pretty happy" move the purple dot near the right edge. 
+
+//SPEAK WORD PANEL
+$PleaseReadWord = Please read the displayed word aloud. Press the button with the purple arrow when you are done. 
+$Help_SpeakWord = Read the displayed word aloud. The app will automatically record your speech. The recording will stop when you press the button with the purple arrow. 
+
+//SPEAK SENTENCE PANEL
+$PleaseReadSentence = Please read the displayed sentence aloud. Press the button with the purple arrow as soon as you are done.
+$Help_SpeakSentence = Read the displayed sentence aloud. The app will automatically record your speech. The recording will stop when you press the button with the purple arrow. 
+
+//DESCRIBE PICTURE PANEL
+$PleaseDescribePicture = Please describe what you see in the picture. Press the purple arrow when you are done.
+$PleaseDescribePictureWithTimer = Please describe what you see in the picture. Speak until the timer runs out. Then press the purple arrow to continue.
+$DescribePictureThankYou = Thank you. Now press the purple arrow. 
+$Help_DescribeAPicture = Describe in your own words the picture and what comes to your mind. The app will automatically record your voice. Press the purple arrow when you are done. 
+
+//ANSWER A QUESTION PANEL
+$PleaseAnswerQuestion = Please answer the following question in your own words. Press the purple arrow when you are done. 
+$Help_AnswerAQuestion = Answer the question and then press the purple arrow. The app will automatically record your voice. 
+
+//THANK YOU PANEL
+$ThankYou = Thank you very much
+$ThankYouText = Thank you for your effort. Press the button with the purple cross to exit the app.
+$TimeForNextTask = You are asked to work on the app three times a day:
+$TimeForReminders = If you forget to do it, the app will remind you at the following times:
+
+//SETTINGS PANEL
+$SaveAndExit = Save and Exit
+$Settings = Settings
+$DeleteA = Delete account
+$Allow4GUpload = Allow 4G Upload
+
+
+//RADIO PANEL
+$ListenRadio = Listen Radio
+$SelectRadioStation = Select your preferred Station.
+$Help_ListenRadio = Listen to the music. Try to relax. If there is no music playing, please check the internet connection.

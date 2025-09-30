@@ -1,0 +1,109 @@
+//PANNEAU DE SÉLECTION DE LA LANGUE
+$Welcome = Bienvenue
+$Help = Aide
+$Help_LanguageSelection = Appuyez sur le bouton avec la langue préférée. Appuyez ensuite sur la flèche violette.  
+
+//PANNEAU DES OBJECTIFS
+$StudyPurpose = Objective de l'étude
+$StudyPurposeText1 = Dans cette étude de l'Université de Berne, nous étudions les liens entre la voix et les émotions. L'application enregistre votre voix pendant que vous lisez des mots à haute voix, répondez à des questions et décrivez des images. Votre humeur actuelle est également demandée. Les données seront utilisées pour mieux comprendre les aspects émotionnels des maladies neurodégénératives (par exemple la maladie de Parkinson) et pour améliorer la thérapie. L'étude a été approuvée par le comité d'éthique du canton de Berne (CH). Vous avez été personnellement informé par l'équipe de l'étude du contenu de l'étude et avez signé le formulaire de consentement éclairé. Ensuite, vous avez reçu le numéro d'identification personnel (ID) avec un mot de passe. 
+
+$StudyPurposeText2 = Si vous n'avez pas encore reçu le numéro d'identification personnel (ID) et que vous souhaitez participer à l'étude, veuillez contacter le directeur de l'étude.\n\nLe responsable de l'étude est le Prof. Dr Tobias Nef (Centre de recherche ARTORG pour le génie biomédical, Université de Berne, info@telerehabilitation.ch).\n\Nous profitons de cette occasion pour vous remercier vivement de votre participation à l'étude. Nous apprécions grandement votre coopération, votre efforts et votre temps!
+
+$Help_Purpose = Pour toute question supplémentaire, veuillez contacter le Centre ARTORG de l'Université de Berne.\n\nwww.artorg.unibe.ch
+
+$Help_Generic = Pour toute question supplémentaire, veuillez contacter le Centre ARTORG de l'Université de Berne. (www.artorg.unibe.ch\n\nProf. Dr. Tobias Nef (Centre de recherche ARTORG pour le génie biomédical, Université de Berne, info@telerehabilitation.ch)
+
+
+//PANNEAU DE PROTECTION DES DONNÉES
+$DataProtectionTitle = Protection des données
+$DataProtectionText = Vous avez été informé par écrit et verbalement par l'équipe de l'étude sur la protection des données.\n\nVoici les points principaux: l'application enregistre votre voix et transmet le fichier audio sous forme cryptée à un serveur sécurisé de l'Université de Berne. Votre numéro d'identification (par exemple 12) et votre réponse à la question de l'humeur (nombre compris entre 0 et 1) sont également transmis.\n\nAucune autre donnée n'est transmise (c'est-à-dire aucune géolocalisation, etc.).\n\nLes données sont traitées de manière strictement confidentielle et ne sont utilisées que pour le context de l'étude.\nVous aavez été informés que vous pouvez interromper l'étude à tout moment et que vous pouvez demander à l'équipe chargée de l'étude de supprimer vos données.\nL'utilisation de l'APP peut entraîner des frais de téléphone mobile. Vous serez indemnisé pour cela par l'équipe de l'étude. Si vous avez d'autres questions, n'hésitez pas à nous contacter. 
+
+
+
+//CONSENTEMENT PANEL NOT USED
+$Consent = Consentement
+$DataProtection = Vous allez effectuer quatre tâches différentes dans cette application : \n\n1) lire des mots à voix haute \n2) lire des phrases à voix haute \n3) répondre à des questions (par exemple, "Comment vas-tu aujourd'hui") \n4) décrire des images. \n\nL'application enregistre votre voix et transmet le fichier audio à un serveur sécurisé situé à l'Université de Berne. De plus, le numéro d'identification (ID) du sujet (par exemple 12) et la clé du sujet (par exemple 34) ainsi que votre réponse à la question sur l'humeur (nombre entre 0 et 1) sont transmis. Aucune autre donnée n'est transmise (c'est-à-dire aucune géolocalisation, etc.). Les données resteront strictement confidentielles et ne seront utilisées qu'à des fins d'étude. Le responsable de l'étude est le professeur Tobias Nef (Centre de recherche ARTORG pour le génie biomédical, Université de Berne). \n\nPour plus d'informations, veuillez consulter notre site Internet à l'adresse https://www.artorg.unibe.ch/research/ger/research.
+$Accept = Accepter
+$Reject = Pas d'accord
+
+//DATA PANEL
+$Infos = Login
+$OK = OK
+$EnterTheData = Veuillez saisir les données (ID et mot de passe) que vous avez reçu. 
+$PleaseEnterBothIDandKey = Veuillez entrer l'ID et le mot de pass.
+$DownloadInfo = Merci. Les données de configuration vont maintenant être téléchargées. Cela ne devrait pas prendre longtemps. Si c'est le cas, fermez simplement l'application et essayez plus tard (vos entrées sont sauvegardées). 
+$ParticipantID = ID
+$ParticipantKEY = Mot de pass
+
+
+$PasswordWrong = Mauvais mot de passe. Veuillez réessayer.
+$Help_Info = Le numéro d'identification (ID) est utilisé à la place de votre nom. La première fois, vous devez saisir le mot de passe que vous avez reçu de l'instructeur. Ensuite, vous pouvez choisir votre propre mot de passe.
+
+//CHANGER LE PANNEAU PW
+$ChangePW = changer le mot de passe
+$EnterNewPW = Veuillez entrer un nouveau mot de passe. Veuillez saisir au moins 6 caractères, des lettres majuscules et minuscules, et au moins un chiffre. 
+$NewPW = Nouveau mot de pass
+$RepeatPW = Répéter le mot de passe
+$Help_NewPassword = Vous pouvez choisir un mot de passe qui vous est familier. 
+$PWnotIdentical = Les deux mots de passe doivent être identiques (longueur minimale de 6, lettres majuscules et minuscules, au moins un chiffre).
+
+
+//INSTRUKTION PANEL
+$Instruction = Instructions
+$AppInstruction1 = Nous vous demandons d'exécuter l'application trois fois par jour aux moments suivants :
+$AppInstruction2 = Après le lancement, vous effectuerez différentes tâches en fonction de l'heure de la journée. Par exemple, lire des mots à haute voix. Cela prendra environ 3 à 5 minutes.
+$AppInstruction3 = Si vous oubliez d'ouvrir l'application aux heures spécifiques, un rappel apparaîtra sur votre smartphone. Les heures de rappel sont les suivantes :
+$oClock = heure
+$Help_Instruction = Essayez de lancer l'application aux heures spécifiées. Si vous oubliez de le faire, un rappel apparaîtra sur votre smartphone.
+
+//PANNEAU DE BIENVENUE
+$WelcomeTask = Bienvenue. Nous vous demandons d'effectuer les tâches suivantes. Appuyez sur la flèche violette pour commencer. 
+$QuestionHowYouFeel = Humeur (question)
+$SpeakWord = Lire un mot
+$SpeakSentence = Lire une phrase
+$DescribeAPicture = Décrire une image
+$AnswerAQuestion = Question
+$Help_Welcome = Après avoir appuyé sur le bouton blanc avec la flèche violette, l'application vous posera les questions appropriées. Les questions dépendent de l'heure de la journée. 
+
+//VAS PANEL
+$Mood = Humeur
+$HowAreYou=Comment ça va ?
+$AtTheMomentIFeel = Au moment présent, je me sens:
+$Sad = triste
+$Happy = heureux
+$Help_Mood = Veuillez nous dire comment vous vous sentez en ce moment. Pour ce faire, déplacez le point violet au bon endroit. Le point le plus à gauche signifie "triste", le plus à droite signifie "heureux". Par exemple, si vous vous sentez "plutôt heureux", déplacez le point violet vers le bord droit. 
+
+//PANEL DE MOTS
+$PleaseReadWord = Veuillez lire à haute voix le mot affiché. Appuyez sur le bouton avec la flèche violette lorsque vous avez terminé. 
+$Help_SpeakWord = Lisez le mot affiché à haute voix. L'application enregistre automatiquement l'audio. L'enregistrement s'arrête lorsque vous appuyez sur le bouton avec la flèche violette. 
+
+/PARLER UNE PHRASE
+$PleaseReadSentence = Veuillez lire à haute voix la phrase affichée. Appuyez sur le bouton avec la flèche violette dès que vous avez terminé.
+$Help_SpeakSentence = Lisez la phrase affichée à voix haute. L'application enregistre automatiquement votre discours. L'enregistrement s'arrête lorsque vous appuyez sur le bouton avec la flèche violette. 
+
+//DÉCRIRE L'IMAGE
+$PleaseDescribePicture = Décrivez ce que vous voyez dans l'image. Appuyez sur la flèche violette lorsque vous avez terminé.
+$PleaseDescribePictureWithTimer = Veuillez décrire ce que vous voyez sur l'image. Parlez jusqu'à ce que le temps soit écoulé. 
+$DescribePictureThankYou = Merci. Maintenant, appuyez sur la flèche violette. 
+$Help_DescribeAPicture = Décrivez avec vos propres mots l'image et ce qui vous vient à l'esprit. L'application enregistrera automatiquement votre voix. Appuyez sur la flèche violette lorsque vous avez terminé. 
+
+//RÉPONDRE À UNE QUESTION
+$PleaseAnswerQuestion = Veuillez répondre à la question suivante avec vos propres mots. Appuyez sur la flèche violette lorsque vous avez terminé. 
+$Help_AnswerAQuestion = Répondez à la question, puis appuyez sur la flèche violette. L'application enregistrera automatiquement votre voix. 
+
+//MERCI PANNEAU
+$ThankYou = Merci beaucoup.
+$ThankYouText = Merci pour votre effort. Appuyez sur le bouton avec la croix violette pour quitter l'application.
+$TimeForNextTask = On vous demande de travailler sur l'application trois fois par jour :
+$TimeForReminders = Si vous oubliez de le faire, l'appli vous le rappellera aux heures suivantes :
+
+//PANNEAU DE CONFIGURATION
+$SaveAndExit = Sauvegarder et quitter
+$Settings = Paramètres
+$DeleteA = Supprimer le compte
+$Allow4GUpload = Autoriser le téléchargement en 4G
+
+//RADIO PANEL
+$ListenRadio = Radio
+$SelectRadioStation = Sélectionnez votre station préférée
+$Help_ListenRadio = Écouter la musique. Essayez de vous détendre. Si aucune musique n'est diffusée, vérifiez la connexion Internet.

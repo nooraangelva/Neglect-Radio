@@ -1,0 +1,82 @@
+//LANGUAGE SELECTION PANEL
+$Welcome = Willkommen
+$Help = Hilfe
+$Help_LanguageSelection = Drücken sie auf den Knopf mit der bevorzugten Sprache. Anschliessend drücken sie auf den violetten Pfeil. 
+
+//PURPOSE PANEL
+$StudyPurpose = Zweck der Studie
+$StudyPurposeText1 = In dieser Studie der Universität Bern untersuchen wir die Zusammenhänge zwischen Stimme und Emotionen. Dazu zeichnet die App ihre Stimme auf während sie Wörter vorlesen, Fragen beantworten, sowie Bilder beschreiben. Ebenfalls wird ihre aktuelle Stimmungslage erfragt.\n\nDie Daten werden dazu verwendet, emotionale Aspekte bei Neurodegenerativen Erkrankungen (z.B. Parkinson) besser zu verstehen und die Therapie zu verbessern.\n\nDie Studie ist von der Ethik Kommission des Kanton Bern (CH) genehmigt. Sie wurden vom Studienteam persönlich über den Studieninhalt informiert und haben die Einverständniserklärung (informed consent) unterschrieben. In der Folge haben sie ihre persönliche Identifikationsnummer (ID) mit Passwort erhalten. 
+
+$StudyPurposeText2 = Falls sie noch keine persönliche Identifikationsnummer (ID) erhalten haben und sie gerne an der Studie teilnehmen möchten, melden sie sich bitte beim Studienleiter.\n\nVerantwortlich für die Studie ist Prof. Dr. Tobias Nef (ARTORG Forschungszentrum für Biomedizinische Technik, Universität Bern, info@telerehabilitation.ch).\n\nWir möchten ihnen an dieser Stelle für ihre Teilnahme an der Studie ganz herzlich danken. Wir schätzen ihre Mitarbeit, ihre Mühe und ihre Zeit sehr!
+
+$Help_Purpose = Bei weiteren Fragen kontaktieren sie bitte das ARTORG Center der Universität Bern. (www.artorg.unibe.ch\n\nProf. Dr. Tobias Nef (ARTORG Forschungszentrum für Biomedizinische Technik, Universität Bern, info@telerehabilitation.ch)
+
+$Help_Generic = Bei weiteren Fragen kontaktieren sie bitte das ARTORG Center der Universität Bern. (www.artorg.unibe.ch\n\nProf. Dr. Tobias Nef (ARTORG Forschungszentrum für Biomedizinische Technik, Universität Bern, info@telerehabilitation.ch)
+
+//DATA PROTECTION PANEL
+$DataProtectionTitle = Datenschutz
+$DataProtectionText = Sie wurden schriftlich und mündlich vom Studienteam über den Datenschutz informiert.\n\nHier nochmals zur Erinnerung: Die App zeichnet ihre Stimme auf und übermittelt die Audiodatei verschlüsselt an einen sicheren Server der Universität Bern. Ebenfalls wird ihre Identifikationsnummer (z.B. 12) sowie ihre Antwort auf die Stimmungsfrage (Zahl zwischen 0-1) übermittelt.\n\nEs werden keine weiteren Daten übermittelt (also keine Geo-Lokalisation, etc.).\n\nDie Daten werden streng vertraulich behandelt und einzig zu Studienzwecken verwendet.\nSie wurden darüber informiert, dass sie die Studie jederzeit abrechen können und beim Studienteam die Löschung ihrer Daten verlangen können.\nDurch die Verwendung der APP können Mobilfunk Kosten entstehen. Sie werden vom Studienteam dafür entschädigt.\nFür weitere Fragen stehen wir gerne zur Verfügung. 
+
+
+//CONSENT PANEL NOT USED
+$Consent = Einverständnis
+$DataProtection = Sie werden in dieser App vier verschiedene Aufgaben erledigen: \n\n1) Wörter laut vorlesen \n2) Sätze laut vorlesen \n3) Fragen beantworten (z.B. "Wie geht es ihnen heute") \n4) Bilder beschreiben. \n\nEbenfalls wird ihnen die Frage gestellt wie sie sich aktuell fühlen.\n\nDie App zeichnet ihre Stimme auf und übermittelt die Audiodatei an einen Sicheren Server der Universität Bern. Ebenfalls werden Probanden ID (z.B. 12) und Probanden Key (z.B. 34) sowie ihre Antwort auf die Stimmungsfrage (Zahl zwischen 0-1) übermittelt.\n\nEs werden keine weiteren Daten übermittelt (also keine Geo-Lokalisation, etc.).\n\nDie Daten werden streng vertraulich behandelt und einzig zu Studienzwecke verwendet.\n\nVerantwortlich für die Studie ist Prof. Dr. Tobias Nef (ARTORG Forschungszentrum für Biomedizinische Technik, Universität Bern). \n\nWeitere Informationen finden sie auf unserer Webseite https://www.artorg.unibe.ch/research/ger/research.
+$Accept = Einverstanden
+$Reject = Nicht Einverstanden
+
+//DATA PANEL
+$Infos = Login
+$OK = OK
+$EnterTheData = Bitte geben sie die ID und Passwort ein, welche sie vom Versuchsleiter erhalten haben. 
+$PleaseEnterBothIDandKey = Bitte geben sie ID und Passwort ein.
+$DownloadInfo = Danke. Die Konfigurationsdaten werden nun heruntergeladen. Sollte nicht lange dauern. Falls doch - einfach die App schliessen und später probieren (Ihre Eingaben sind gespeichert). 
+$ParticipantID = ID
+$ParticipantKEY = Passwort
+$PasswordWrong = Falsches Passwort. Bitte versuchen sie nochmals.
+$NewPW = Neues Passwort
+$RepeatPW = Passwort wiederholen
+
+$Help_Info = Die Identifikationsnummer (ID) wird anstelle ihres Namens verwendet. Beim ersten mal müssen sie das Passwort welches sie vom Versuchsleiter erhalten haben eingeben. Anschließend können sie ein eignes Passwort wählen.
+
+
+//CHANGE PW PANEL
+$ChangePW = Passwort ändern
+$EnterNewPW = Bitte geben sie ein neues Passwort ein. Bitte mindestens 6 Zeichen, Gross- und Kleinbuchstaben, sowie mindestens eine Zahl. 
+$Help_NewPassword = Sie dürfen ein ihnen geläufiges Passwort wählen. 
+$PWnotIdentical = Die beiden Passwörter müssen identisch sein (Mindestlänge 6, Gross- und Kleinbuchstaben, mindestens eine Zahl).
+
+//INSTRUKTION PANEL
+$Instruction = Instruktionen
+$AppInstruction1 = Wir bitten sie die App drei mal täglich zu den folgenden Zeiten zu starten:
+$AppInstruction2 = Nach dem Start werden sie je nach Tageszeit verschiedene Aufgaben lösen. Beispielsweise Wörter laut vorlesen. Dies dauert etwa 3-5 min.
+$AppInstruction3 = Falls sie vergessen die App zu den bestimmten Zeiten zu öffnen wird auf ihrem Smartphone eine Erinnerung erscheinen. Ihre Erinnerungszeiten sind:
+$oClock = Uhr
+$Help_Instruction = Versuchen sie die App an den genannten Zeitpunkten zu starten. Falls sie es vergessen erscheint jeweils eine Erinnerung auf ihrem Smartphone.
+
+//WELCOME PANEL
+$WelcomeTask = Willkommen beim Neglect Radio.\n\nWir empfehlen ihnen täglich 15 min Neglect Radio zu hören.\n\nDrücken sie auf den Pfeil um zu starten. 
+$Help_Welcome = Dieses Programm des Kantonsspital Luzern und der Universität Bern ermöglicht ihnen verschiedene Radiostationen zu hören. Der Ton wandert jeweils von rechts nach links. In einer aktuellen Studie (Kaufmann BC et al., Cortex. 2022) wurden Hinweise gefunden dass dies den Neglect reduzieren kann. 
+
+
+
+
+
+//SETTINGS PANEL
+$SaveAndExit = Speichern und Beenden
+$Settings = Einstellungen
+$FirstName = Vorname
+$Name = Name
+$HandyNummer = Handy Nr.
+$SMSReminders = SMS Erinnerungen
+$ShareData = Sende Nutzungsdauer an die Universität Bern
+
+
+
+//RADIO PANEL
+$ListenRadio = Radio hören
+$SelectRadioStation = Wählen sie ihre bevorzugte\n\nRadiostation.
+$Help_ListenRadio = Hören sie der Musik zu. Versuchen sie zu entspannen. Falls keine Musik gespielt wird überprüfen sie bitte die Internet Verbindung. Drücken sie auf den Pfeil nach links um die Station zu wechseln.
+$Help_ListenRadio2 = Wählen sie ihre bevorzugte Station und drücken sie auf einen der grauen Knöpfe.
+
+
+$WaitForConnection = Warte auf Internet Verbindung
