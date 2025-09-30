@@ -179,7 +179,7 @@ InitTestScene*.unity*
 # -------------------------------------------
 
 # iOS (Xcode project, generated libs, assets)
-[Ii]OS/Libraries/
+[Ii]OS/
 /[Xx]code/
 /[Bb]uilds/[Ii]OS/
 *.a
